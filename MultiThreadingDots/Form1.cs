@@ -14,7 +14,7 @@ namespace MultiThreadingDots
             #region Hilo Color rojo
             Thread threadRed = new Thread(t =>
             {
-                for (int i = 0; i < 100; i++)
+                for (int i = 0; i < 1000; i++)
                 {
                     int width = rd.Next(0, this.Width);
                     int height = rd.Next(50, this.Height);
@@ -25,10 +25,23 @@ namespace MultiThreadingDots
             })
             { IsBackground = true};
             #endregion
+            
+            threadRed.Start();
+        }
+
+        Random rd;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            rd = new Random();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
             #region Hilo Color azul
             Thread threadBlue = new Thread(t =>
             {
-                for (int i = 0; i < 100; i++)
+                for (int i = 0; i < 1000; i++)
                 {
                     int width = rd.Next(0, this.Width);
                     int height = rd.Next(50, this.Height);
@@ -39,10 +52,16 @@ namespace MultiThreadingDots
             })
             { IsBackground = true };
             #endregion
+
+            threadBlue.Start();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
             #region Hilo Color verde
             Thread threadGreen = new Thread(t =>
             {
-                for (int i = 0; i < 100; i++)
+                for (int i = 0; i < 1000; i++)
                 {
                     int width = rd.Next(0, this.Width);
                     int height = rd.Next(50, this.Height);
@@ -53,21 +72,8 @@ namespace MultiThreadingDots
             })
             { IsBackground = true };
             #endregion
-            threadBlue.Start();
-            threadRed.Start();
+
             threadGreen.Start();
-        }
-
-        Random rd;
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            rd = new Random();
-        }
-
-        private void redColor(object t)
-        {
-
         }
     }
 }
