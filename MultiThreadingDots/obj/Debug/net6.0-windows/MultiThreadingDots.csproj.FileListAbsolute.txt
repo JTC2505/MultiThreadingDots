@@ -1,0 +1,17 @@
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\bin\Debug\net6.0-windows\MultiThreadingDots.exe
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\bin\Debug\net6.0-windows\MultiThreadingDots.deps.json
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\bin\Debug\net6.0-windows\MultiThreadingDots.runtimeconfig.json
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\bin\Debug\net6.0-windows\MultiThreadingDots.dll
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\bin\Debug\net6.0-windows\MultiThreadingDots.pdb
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.csproj.AssemblyReference.cache
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.AssemblyInfoInputs.cache
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.AssemblyInfo.cs
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.csproj.CoreCompileInputs.cache
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.dll
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\refint\MultiThreadingDots.dll
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.pdb
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.genruntimeconfig.cache
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\ref\MultiThreadingDots.dll
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.Form1.resources
+C:\Users\estua\OneDrive\Documentos\Tareas\2022\II\Sistemas operativos I\MultiThreadingDots\MultiThreadingDots\obj\Debug\net6.0-windows\MultiThreadingDots.csproj.GenerateResource.cache
